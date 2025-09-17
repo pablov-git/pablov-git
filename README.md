@@ -1,8 +1,7 @@
 ## Hi, I'm Pablo 👋
 
-💻 Front-end developer
-🟢 Currently looking for new opportunities
-📫 Email me pablovacasm@gmail.com 
+- 💻 Front-end developer  
 
-## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablov-git&layout=compact&theme=radical)
+- 🟢 Currently looking for new opportunities  
+
+- 📫 Email me pablovacasm@gmail.com 
